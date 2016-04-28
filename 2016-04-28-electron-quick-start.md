@@ -8,6 +8,12 @@ tags:
 permalink: electron-quick-start
 ---
 
+### Electron简介
+
+Electron是一种可以使用网页技术来开发跨平台桌面应用的解决方案，用html，css和js就可以写桌面应用。
+
+<!-- more -->
+
 ### 安装cnpm
 
 安装好了nodejs和npm之后，为了方便在国内下载npm包，可以使用淘宝的npm镜像
