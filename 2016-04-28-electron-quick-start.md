@@ -35,4 +35,4 @@ npm start
 
 运行结果如图所示：
 
-![运行结果](2016-04-28.electron-quick-start/electron-quick-start.jpg)
+![运行结果](electron-quick-start/electron-quick-start.jpg)
