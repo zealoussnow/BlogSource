@@ -35,4 +35,6 @@ npm start
 
 运行结果如图所示：
 
+<div align="center">
 ![运行结果](electron-quick-start/electron-quick-start.jpg)
+</div>
