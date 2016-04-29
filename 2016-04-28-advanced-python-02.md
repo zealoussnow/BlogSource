@@ -8,7 +8,7 @@ tags:
 permalink: advanced-python-02
 ---
 
-### 语法最佳实践——类级
+## 语法最佳实践——类级
 
 ### 子类化内建类型
 

@@ -8,7 +8,7 @@ tags:
 permalink: advanced-python-01
 ---
 
-### 语法最佳实践——低于类级
+## 语法最佳实践——低于类级
 
 ### 列表推导(List Comprehensions)
 
@@ -276,7 +276,8 @@ with语句覆盖了这些使用场景，为在一个代码块前后调用一些�
 未来给with语句提供一些辅助类，标准程序库中添加了一个模块。最有用的辅助类是contextmanager，这是一个
 装饰器，它增强了包含以yield语句分开的\_\_enter\_\_和\_\_exit\_\_两部分的生成器。
 
-### 参考文档
+### 参考资料
 
-- [Python在线教程](https://docs.python.org/2/tutorial/)
-- [样式指南](http://www.python.org/dev/peps/pep-0008)
+[Python在线教程](https://docs.python.org/2/tutorial/)
+
+[样式指南](http://www.python.org/dev/peps/pep-0008)
